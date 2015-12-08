@@ -8,10 +8,11 @@ An article I am writing for [The Conversation](https://theconversation.com/us) a
 - It also reports on the discovery of a new Jupiter analog orbiting a star very similar to the Sun, HD 32963 b. Mr. Rowan discovered this planet by analyzing over 16 years of observations taken with the Keck telescope in Hawaii. 
 - Finally, this paper shows the importance of training our students in scientific research using real astronomical data, and tools that are accessible enough to be used without formal training (ref. my previous article: https://theconversation.com/telescope-apps-help-amateurs-hunt-for-exoplanets-24925).
 
-![Figure 1](figures/32963_synthetic.png)
+![Synthetic HD 32963](figures/32963_synthetic.png)
+<small>Artistic representation of the Jupiter-like planet orbiting the star HD 32963.</small>
 
 # Is the Solar System typical? High school student adds another piece to the puzzle #
-Is our little corner of the Galaxy a special place? As of today, we've discovered more than 1,500 exoplanets (planets orbiting stars other than the Sun), with thousands more candidates waiting for confirmation in the pipeline. The figure below (called a *mass-period diagram*) shows the periods and masses of the planets discovered so far, compared with the properties of Solar System planets. A cursory look at the figure seem to indicate that the majority of planetary systems do not resemble our own Solar System, at all! We lack close-in planets (planets with a period smaller than Mercury's), any super-Earths (a common class of planets with masses a times the mass of the Earth), and we have several gas giants whose orbits are very close to circular.
+Is our little corner of the Galaxy a special place? As of today, we've [discovered more than 1,500 exoplanets](http://exoplanets.org) (planets orbiting stars other than the Sun), with thousands more candidates waiting for confirmation in the pipeline. The figure below (called a *mass-period diagram*) shows the periods and masses of the planets discovered so far, compared with the properties of Solar System planets. A cursory look at the figure seem to indicate that the majority of planetary systems do not resemble our own Solar System, at all! We lack close-in planets (planets with a period smaller than Mercury's), any super-Earths (a common class of planets with masses a times the mass of the Earth), and we have several gas giants whose orbits are very close to circular.
 
 ![Figure 1](figures/Figure_1.png)
 
