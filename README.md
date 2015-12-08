@@ -40,6 +40,6 @@ The procedure pinpointed the frequency of Jupiter analogs across the survey at a
 
 This result has several consequences. First, the relative rarity of Jupiter-like planets indicates that true Solar System analogs should be themselves rare. By extension, given the important role that Jupiter played at all stages of the formation of the Solar System, Earth-like habitable planets might be rarer than previously thought. In our Solar System, the presence of Jupiter might have disturbed the formation of super-Earth planets with massive atmospheres, thereby ensuring that the inner Solar System is populated with small, rocky planets with thin atmospheres. It might have also indirectly funneled water towards Earth by stirring and slinging icy bodies from the asteroid belt.
 
-Finally, it also means that Jupiter-like planets do not form as easily around stars, either because not enough solid material is available, or because they migrate closer to the central stars very efficiently. This explanation is tentatively borne out by our planet formation simulations.
+Finally, it also means that Jupiter-like planets do not form as easily around stars, either because not enough solid material is available, or because they migrate closer to the central stars very efficiently. The latter explanation is tentatively borne out by planet formation simulations.
 
 Perhaps our Solar System is really a unique place after all!
