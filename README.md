@@ -11,6 +11,8 @@ An article I am writing for [The Conversation](https://theconversation.com/us) a
 ## TODO ##
 * Desperately seeking Better Title
 
+<hr>
+
 ![Synthetic HD 32963](figures/32963_synthetic.png)
 *Artistic representation of the Jupiter-like planet orbiting the star HD 32963.*
 
