@@ -1,45 +1,69 @@
-An article I am writing for [The Conversation](https://theconversation.com/us) about [this paper](http://arxiv.org/abs/1512.00417) (Rowan et al. 2015, *The Lick-Carnegie Exoplanet Survey: HD32963 -- A New Jupiter Analog Orbiting a Sun-like Star*).
+Final version [submitted for publication](https://theconversation.com/rarity-of-jupiter-like-planets-means-planetary-systems-exactly-like-ours-may-be-scarce-52116).
 
-:construction_worker: It's a work in progress, and it will suck for a while. :construction_worker:
+<img src="figures/32963_synthetic.png">
+# Rarity of Jupiter-like planets means planetary systems exactly like ours may be scarce
+Is our little corner of the galaxy a special place? As of this date, we’ve <a href="http://exoplanets.org">discovered more than 1,500 exoplanets</a>: planets orbiting stars other than our sun. Thousands more will be added to the list in the coming years as we confirm planetary candidates by alternative, independent methods.
 
-# Key points
-- The paper asks if Jupiter analogs (planets similar to Jupiter) orbiting Sun-like stars are rare. This is crucial to understanding whether the Solar System is "typical", since much of the Solar System's formation history and architecture was determined by Jupiter. 
-- Mr. Rowan's paper determines that only about 3% of all stars host a Jupiter analog, which has important implications for our search for "Earth twins" and life outside the Solar System. 
-- It also reports on the discovery of a new Jupiter analog orbiting a star very similar to the Sun, HD 32963 b. Mr. Rowan discovered this planet by analyzing over 16 years of observations taken with the Keck telescope in Hawaii. 
-- Finally, this paper shows the importance of training our students in scientific research using real astronomical data, and tools that are accessible enough to be used without formal training (ref. my previous article: https://theconversation.com/telescope-apps-help-amateurs-hunt-for-exoplanets-24925).
+<p>In the hunt for other planets, we’re especially interested in those that might potentially host life. So we focus our modern exoplanet surveys on planets that might be similar to Earth: low-mass, rocky and with just the right temperature to allow for liquid water. But what about the other planets in the solar system? The <a href="https://en.wikipedia.org/wiki/Copernican_principle">Copernican principle</a> – the idea that the Earth and the solar system are not unique or special in the universe – suggests the architecture of our planetary system should be common. But it doesn’t seem to be.</p>
 
-## TODO ##
-* Desperately seeking Better Title
-* Desperately seeking Better Closure
+<p><figure class="align-center zoomable">
+            <a href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/105306/area14mp/image-20151210-7425-1kd373r.png"><img alt="" src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/105306/width668/image-20151210-7425-1kd373r.png"></a>
+            <figcaption>
+              <span class="caption">A mass-period diagram. Each dot marks the mass and orbital period of a confirmed exoplanet.</span>
+              <span class="attribution"><span class="source">Stefano Meschiari</span></span>
+            </figcaption>
+          </figure></p>
 
-<hr>
+<p>The figure above, called a <em>mass-period diagram</em>, provides a visual way to compare the planets of our solar system with those we’ve spotted farther away. It charts the orbital periods (the time it takes for a planet to make one trip around its central star) and the masses of the planets discovered so far, compared with the properties of solar system planets.</p>
 
-![Synthetic HD 32963](figures/32963_synthetic.png)
-*Artistic representation of the Jupiter-like planet orbiting the star HD 32963.*
+<p>Planets like Earth, Jupiter, Saturn and Uranus occupy “empty” parts of the diagram – we haven’t found other planets with similar masses and orbits so far. At face value, this would indicate that the majority of planetary systems do not resemble our own solar system.</p>
 
-# Is the Solar System typical? High school student adds another piece to the puzzle #
+<p>The solar system lacks close-in planets (planets with orbital periods between a few and a few tens of days) and super-Earths (a class of planets with masses a few times the mass of the Earth often detected in other planetary systems). On the other hand, it does feature several long-period gaseous planets with very nearly circular orbits (Jupiter, Saturn, Uranus and Neptune).</p>
 
-Is our little corner of the Galaxy a special place? As of this date, we have [discovered more than 1,500 exoplanets](http://exoplanets.org) (planets orbiting stars other than the Sun), with thousands more candidates waiting for confirmation in the pipeline. The figure below, called a *mass-period diagram*, shows the orbital periods (the time it takes for a planet to orbit its central star) and masses of the planets discovered so far, compared with the properties of Solar System planets. A cursory look at the figure shows that planets like the Earth, Jupiter, Saturn and Uranus occupy "empty" parts of the diagram, seemingly indicating that the majority of planetary systems do not resemble our own Solar System. We lack close-in planets (planets with periods between 1 and 100 days) and any super-Earths (a common class of planets with masses a few times the mass of the Earth), but we have several long-period gas giants with orbits very nearly circular.
+<p>Part of this difference is due to selection effects: close-in, massive planets are easier to discover than far-out, low-mass planets. In light of this discovery bias, astronomers <a href="http://aasnova.org/2015/09/25/how-normal-is-our-solar-system/">Rebecca Martin and Mario Livio</a> convincingly argue that our solar system is actually <a href="http://dx.doi.org/10.1088/0004-637X/810/2/105">more typical than it seems at first glance</a>.</p>
 
-![Figure 1](figures/Figure_1.png)
-*Left: a mass-period diagram. Each dot marks the mass and period of a confirmed exoplanet. Right: the planetary system HD 219134 compared to the inner Solar System. In this system, at least 5 relatively massive planets orbit so close to the central star that their "years" last only between 3 and 94 days long.*
+<p>There is a sticking point, however: Jupiter still stands out. It’s an outlier based both on its orbital location (with a corresponding period of about 12 years) and its very-close-to-circular orbit. Understanding whether Jupiter’s relative uniqueness is a real feature, or another product of selection effects, has real implications for our understanding of exoplanets.</p>
 
-Part of this discrepancy is due to *selection effects*: close-in, massive planets are easier to discover than far-out, low-mass planets. In light of this, [a recent paper by Drs. Rebecca Martin and Mario Livio](http://aasnova.org/2015/09/25/how-normal-is-our-solar-system/) argues that the Solar System is overall more typical than previously thought, based on a number of features. There is a sticking point, however: Jupiter still stands out as an outlier, based both on its orbital location (with a corresponding period of about 12 years) and its very-close-to-circular orbit.
+<p><figure>
+            <iframe width="440" height="260" src="https://www.youtube.com/embed/3afEX8a2jPg?wmode=transparent&start=0" frameborder="0" allowfullscreen></iframe>
+            <figcaption><span class="caption">Jupiter as seen by the Hubble Space Telescope.</span></figcaption>
+          </figure></p>
 
-## Throwing its weight around ##
-According to our understanding of how the Solar System formed, Jupiter shaped much of its early history. It influenced the formation of Saturn, cleared the inner Solar System out of debris, and potentially facilitated the development of life by shielding Earth from collisions. As a consequence, understanding whether Jupiter is a relatively common planet might be crucial to understanding whether *true* Solar Systems and -- by extension -- planets like Earth are abundant in the Galaxy.
+<h2>Throwing its weight around</h2>
 
-Despite their relative heft, discovering *Jupiter analogs* (planets with periods and masses similar to those of Jupiter's) is challenging, since their long orbital periods require monitoring a star for a long time. Jupiter-like planets are typically discovered using an indirect detection technique called the radial velocity method. The gravitational pull of a planet on the central star will cause the wavelength of the light we receive to shift towards bluer or redder colors in a distinctive, period pattern. This periodic signal can require the monitoring of a star over many years, or even decades.
+<p>According to our understanding of how our solar system formed, Jupiter shaped much of the other planets' early history. Due to its gravity, it influenced the <a href="http://www.sciencedaily.com/releases/2011/06/110605132437.htm">formation of Mars</a> and Saturn. It potentially facilitated the development of life by shielding Earth from cosmic collisions that would have delayed or extinguished it, and by funneling water-rich bodies towards it. And its gravity <a href="http://doi.org/10.1073/pnas.1423252112">likely swept the inner solar system of solid debris</a>. Thanks to this clearing action, Jupiter might have prevented the formation of super-Earth planets with massive atmospheres, thereby ensuring that the inner solar system is populated with small, rocky planets with thin atmospheres.</p>
 
-## Are Jupiter-like planets rare? ##
-[In a recent paper](http://arxiv.org/abs/1512.00417), Dominick Rowan, a high-school senior, and his co-authors (astronomers from the University of Texas, the University of California at Santa Cruz, and more) analyzed data taken at the Keck telescope in Hawaii for more than 1,100 stars. Many of those stars had been monitored for 10 years or more. To carry out the study, he used an application that I develop, called [Systemic](https://theconversation.com/telescope-apps-help-amateurs-hunt-for-exoplanets-24925). Systemic is freely available to the community and is widely used in [University classrooms](http://www.save-point.io) to teach how astronomical data is analyzed.
+<p>Without Jupiter, it looks unlikely that we’d be here. As a consequence, figuring out if Jupiter is a relatively common type of planet might be crucial to understanding whether terrestrial planets with a similar formation environment as Earth are abundant in the galaxy.</p>
 
-The team re-analyzed the available data for each star and calculated the probability that a Jupiter-like planet could have been missed (either because not enough data is available, or because the data is not high-quality enough). They accomplished this by simulating several hundreds of millions of possible scenarios. This procedure makes it possible to infer how many Jupiter analogs (both discovered and undiscovered) orbited the 1,100 sample of stars. While carrying out this analysis, they discovered a [new Jupiter-like planet](http://exoplanet.eu/catalog/hd_32963_b/) orbiting HD 32963, which is a star very similar to the Sun in terms of age and physical properties.
+<p>Despite their relative heft, it’s a challenge to discover Jupiter analogs – those planets with periods and masses similar to Jupiter’s. Astronomers typically discover them using an indirect detection technique called the <a href="https://en.wikipedia.org/wiki/Doppler_spectroscopy">Doppler radial velocity method</a>. The gravitational pull of the planet causes tiny shifts in the wavelength of features in the spectrum of the star, in a distinctive, periodic pattern. We can detect these shifts by periodically capturing the star’s light with a telescope and turning it into a spectrum with <a href="https://www2.keck.hawaii.edu/inst/hires/">a spectrograph</a>. This periodic signal, based on a planet’s long orbital period, can require monitoring a star over many years, even decades.</p>
 
-The paper pinpoints the frequency of Jupiter analogs across the survey at approximately 3%. This result is broadly consistent with previous estimates, but is greatly strengthened by the availability of *decades* of observations which were taken into account in the simulations. 
+<h1>Are Jupiter-like planets rare?</h1>
 
-This result has several consequences. First, the relative rarity of Jupiter-like planets indicates that true Solar System analogs should be themselves rare. By extension, given the important role that Jupiter played at all stages of the formation of the Solar System, Earth-like habitable planets might be rarer than previously thought. In our Solar System, the presence of Jupiter might have disturbed the formation of super-Earth planets with massive atmospheres, thereby ensuring that the inner Solar System is populated with small, rocky planets with thin atmospheres. It might have also indirectly funneled water towards Earth by stirring and slinging icy bodies from the asteroid belt.
+<p><a href="http://arxiv.org/abs/1512.00417">In a recent paper</a>, Dominick Rowan, a high school senior from New York, and his coauthors (including astronomers from the University of Texas, the University of California at Santa Cruz and me) analyzed the Doppler data for more than 1,100 stars. Each star was observed with the <a href="http://www.keckobservatory.org/">Keck Observatory telescope</a> in Hawaii; many of them had been monitored for a decade or more. To analyze the data, he used the <a href="https://www.r-project.org">open-source statistical environment R</a> together with a freely available application that I developed, called <a href="http://www.stefanom.org/systemic">Systemic</a>. Many universities use an <a href="http://www.stefanom.org/systemic-live">online version</a> to teach how to analyze astronomical data.</p>
 
-Finally, it also means that Jupiter-like planets do not form as easily around stars, either because not enough solid material is available, or because they migrate closer to the central stars very efficiently. The latter explanation is tentatively borne out by planet formation simulations.
+<p>Our team studied the available data for each star and calculated the probability that a Jupiter-like planet could have been missed – either because not enough data are available, or because the data are not of high enough quality. To do this, we simulated hundreds of millions of possible scenarios. Each was created with a computer algorithm and represents a set of alternative possible observations. This procedure makes it possible to infer how many Jupiter analogs (both discovered and undiscovered) orbited the sample of 1,100 stars.</p>
 
-Perhaps our Solar System is really a unique place after all!
+<p><figure class="align-center zoomable">
+            <a href="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/105134/area14mp/image-20151209-15552-1nqxyfv.png"><img alt="" src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/105134/width668/image-20151209-15552-1nqxyfv.png"></a>
+            <figcaption>
+              <span class="caption">Orbit of the newly discovered Jupiter-mass planet orbiting the star HD 32963, compared to the orbits of Earth and Jupiter around the sun.</span>
+              <span class="attribution"><span class="source">Stefano Meschiari</span>, <a class="license" href="http://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND</a></span>
+            </figcaption>
+          </figure></p>
+
+<p>While carrying out this analysis, we discovered a <a href="http://exoplanet.eu/catalog/hd_32963_b/">new Jupiter-like planet</a> orbiting HD 32963, which is a star very similar to the sun in terms of age and physical properties. To make this discovery, we analyzed each star with an automated algorithm that tried to uncover periodic signals potentially associated with the presence of a planet.</p>
+
+<p>We pinpointed the frequency of Jupiter analogs across the survey at approximately 3%. This result is broadly consistent with previous estimates, which were based on a smaller set of stars or a different discovery technique. It greatly strengthens earlier predictions because we took <em>decades</em> of observations into account in the simulations.</p>
+
+<p>This result has several consequences. First, the relative rarity of Jupiter-like planets indicates that true solar system analogs should themselves be rare. By extension, given the important role that Jupiter played at all stages of the formation of the solar system, Earth-like habitable planets with similar formation history to our solar system will be rare.</p>
+
+<p>Finally, it also underscores that Jupiter-like planets do not form as readily around stars as other types of planets do. It could be because not enough solid material is available, or because these gas giants migrate closer to the central stars very efficiently. <a href="http://astrobites.org/2015/08/18/giant-planets-from-far-out-there/">Recent planet-formation simulations</a> tentatively bear out the latter explanation.</p>
+
+<p>Long-running, ongoing surveys will continue to help us understand the architecture of the outer regions of planetary systems. Programs including the Keck planet search and the <a href="http://arxiv.org/abs/1512.02965">McDonald Planet Search</a> have been accumulating data for decades. Discovering ice giants similar to Uranus and Neptune will be even tougher than tracking down these Jupiter analogs. Because of their long orbital periods (84 and 164 years) and the very small Doppler shifts they induce on their central stars (tens of times smaller than a Jupiter-like planet), the detection of Uranus and Neptune analogs lies far in the future.</p>
+
+<img alt="The Conversation" height="1" src="https://counter.theconversation.edu.au/content/52116/count.gif" width="1" />
+
+<p><span><a href="http://theconversation.com/profiles/stefano-meschiari-115778">Stefano Meschiari</a>, W J McDonald Postdoctoral Fellow, <em><a href="http://theconversation.com/institutions/university-of-texas-at-austin">University of Texas at Austin</a></em></span></p>
+
+<p>This article was originally published on <a href="http://theconversation.com">The Conversation</a>. Read the <a href="https://theconversation.com/rarity-of-jupiter-like-planets-means-planetary-systems-exactly-like-ours-may-be-scarce-52116">original article</a>.</p>
+
